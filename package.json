@@ -1,0 +1,12 @@
+{
+  "name": "schedule-management",
+  "version": "1.0.0",
+  "description": "API for schedule management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devbugger": "node --inspect src/app.js"
+  },
+  "author": "Matheus Galvão",
+  "license": "ISC"
+}
