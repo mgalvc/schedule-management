@@ -1,4 +1,4 @@
 .vscode
 /database/db.json
 node_modules
-package.json.lock
+package-lock.json

@@ -4,9 +4,12 @@
   "description": "API for schedule management",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "devbugger": "node --inspect src/app.js"
   },
   "author": "Matheus Galvão",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
